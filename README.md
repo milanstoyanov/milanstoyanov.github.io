@@ -2,6 +2,8 @@
 
 ## Climate Technology and My Adaptation
 
+##### By: Milan Stoyanov
+
 ### Direct Air Capture is the process of capturing carbon dioxide directly from the atmosphere through exposure to a solid sorbent, which allows atmospheric CO₂ to be directly absorbed. One of these various methods, which I chose to learn more about and test in the lab myself, involves limestone, or calcium carbonate (CaCO₃).
 
 #### Heirloom's Process
